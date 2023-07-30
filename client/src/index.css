@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.black-color {
+  color: #222222;
+}
+
+.grey-color {
+  color: #888888;
+}
+
+.red-color {
+  color: #c90000;
+}
