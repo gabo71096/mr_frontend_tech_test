@@ -1,5 +1,5 @@
 import { ToastContainer } from "react-toastify";
-import 'react-toastify/dist/ReactToastify.min.css';
+import "react-toastify/dist/ReactToastify.min.css";
 import ProductDetails from "./features/catalog/ProductDetails";
 import Header from "./layout/Header";
 

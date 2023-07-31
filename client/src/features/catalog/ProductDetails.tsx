@@ -35,7 +35,7 @@ export default function ProductDetails() {
       }),
     );
 
-    return toast.success(`${product.title} on size ${selectedSize.label} added to the cart!`)
+    return toast.success(`${product.title} on size ${selectedSize.label} added to the cart!`);
   }
 
   return (

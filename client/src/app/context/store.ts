@@ -3,7 +3,7 @@ import shoppingCartSlice from "../../features/catalog/shoppingCartSlice";
 
 export const store = configureStore({
   reducer: {
-    shoppingCart: shoppingCartSlice
+    shoppingCart: shoppingCartSlice,
   },
 });
 
