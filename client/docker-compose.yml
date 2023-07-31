@@ -1,0 +1,7 @@
+services:
+  app:
+    image: mr_frontend_tech_test
+    restart: always
+    build: .
+    ports:
+      - "8080:80"
