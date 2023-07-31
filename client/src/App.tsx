@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <main>
+      <main className="mb-3">
         <ProductDetails />
       </main>
       <ToastContainer position="bottom-right" autoClose={5000} theme="colored" />
